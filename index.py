@@ -1,8 +1,7 @@
-import my_queue
+import my_queue as que
 import stack
 import cards
 import random
-import window
 
 playing = True
 
